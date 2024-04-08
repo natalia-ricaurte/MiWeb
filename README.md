@@ -1,6 +1,7 @@
 # ISIS2603_202410
 
-TALLER 1
+Taller 1
+
 Requisitos
 1. Diseñe la maqueta de la página que va a construir
 2. Plasme su diseño en una grilla de Bootstrap
