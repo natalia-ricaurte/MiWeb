@@ -11,3 +11,4 @@ un enlace a una página externa.
 5. Defina la zona que va a contener una lista de elementos
 6. Defina una zona que contenga un formulario para que los visitantes a la página se suscriban para
 recibir más información.
+![image](https://github.com/natalia-ricaurte/MiWeb/assets/111015466/36b1fba9-5b72-4d35-a63f-20ce002ae32e)
